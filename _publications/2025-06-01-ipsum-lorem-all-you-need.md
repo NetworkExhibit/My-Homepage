@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-06-01-ipsum-lorem-all-you-need
 excerpt: 'This paper introduces a novel approach to simplifying LLM architectures, demonstrating that Ipsum Lorem techniques can achieve competitive performance with reduced computational costs.'
-date: 2025-06-01
+date: 2026-06-01
 venue: 'Accepted at COML 2026 - Conference on Machine Learning (Oral Presentation)'
 slidesurl: 'http://yourwebsite.com/files/slides-ipsum-lorem.pdf'
 paperurl: 'https://openreview.net/forum?id=example123'
